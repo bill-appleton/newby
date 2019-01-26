@@ -5,10 +5,6 @@
 			"default": false
 		},
 		{
-			"path": "simple-pack",
-			"default": false
-		},
-		{
 			"path": "unpackaged",
 			"default": true
 		}
