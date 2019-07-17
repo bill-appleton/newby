@@ -6,7 +6,6 @@
 	<label>Referral Source</label>
 	<length>32</length>
 	<required>false</required>
-	<trackHistory>false</trackHistory>
 	<trackTrending>false</trackTrending>
 	<type>Text</type>
 	<unique>false</unique>

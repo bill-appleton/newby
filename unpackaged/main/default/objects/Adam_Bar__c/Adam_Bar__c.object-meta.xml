@@ -43,20 +43,21 @@
 	<allowInChatterGroups>false</allowInChatterGroups>
 	<compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
 	<deploymentStatus>Deployed</deploymentStatus>
+	<description>New details</description>
 	<enableActivities>false</enableActivities>
 	<enableBulkApi>true</enableBulkApi>
 	<enableEnhancedLookup>false</enableEnhancedLookup>
 	<enableFeeds>false</enableFeeds>
-	<enableHistory>true</enableHistory>
+	<enableHistory>false</enableHistory>
 	<enableLicensing>false</enableLicensing>
 	<enableReports>false</enableReports>
 	<enableSearch>true</enableSearch>
 	<enableSharing>true</enableSharing>
 	<enableStreamingApi>true</enableStreamingApi>
+	<externalSharingModel>ReadWrite</externalSharingModel>
 	<label>Adam Bar</label>
 	<nameField>
 		<label>Adam Bar Name</label>
-		<trackHistory>false</trackHistory>
 		<type>Text</type>
 	</nameField>
 	<pluralLabel>Adam Bars</pluralLabel>
