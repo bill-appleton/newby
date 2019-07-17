@@ -1,15 +1,7 @@
 {
 	"packageDirectories": [
 		{
-			"path": "Account",
-			"default": false
-		},
-		{
-			"path": "default",
-			"default": false
-		},
-		{
-			"path": "Opportunity",
+			"path": "GamePlan",
 			"default": false
 		},
 		{
