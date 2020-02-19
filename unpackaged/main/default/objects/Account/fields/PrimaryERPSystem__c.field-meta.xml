@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>PrimaryERPSystem__c</fullName>
+	<externalId>false</externalId>
+	<label>Primary ERP System</label>
+	<required>false</required>
+	<trackFeedHistory>false</trackFeedHistory>
+	<trackHistory>false</trackHistory>
+	<type>Picklist</type>
+	<valueSet>
+		<valueSetDefinition>
+			<sorted>false</sorted>
+			<value>
+				<fullName>Oracle</fullName>
+				<default>false</default>
+				<label>Oracle</label>
+			</value>
+			<value>
+				<fullName>Peoplesoft</fullName>
+				<default>false</default>
+				<label>Peoplesoft</label>
+			</value>
+			<value>
+				<fullName>SAP</fullName>
+				<default>false</default>
+				<label>SAP</label>
+			</value>
+		</valueSetDefinition>
+	</valueSet>
+</CustomField>
