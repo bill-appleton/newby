@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>parent_link_master__c</fullName>
+	<externalId>false</externalId>
+	<label>parentabc</label>
+	<referenceTo>parentabc__c</referenceTo>
+	<relationshipLabel>child123s</relationshipLabel>
+	<relationshipName>child123s</relationshipName>
+	<relationshipOrder>0</relationshipOrder>
+	<reparentableMasterDetail>false</reparentableMasterDetail>
+	<trackTrending>false</trackTrending>
+	<type>MasterDetail</type>
+	<writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
