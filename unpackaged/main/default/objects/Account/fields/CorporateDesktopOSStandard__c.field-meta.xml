@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>CorporateDesktopOSStandard__c</fullName>
+	<externalId>false</externalId>
+	<label>Corporate Desktop OS Standard</label>
+	<required>false</required>
+	<trackFeedHistory>false</trackFeedHistory>
+	<trackHistory>false</trackHistory>
+	<type>Picklist</type>
+	<valueSet>
+		<valueSetDefinition>
+			<sorted>false</sorted>
+			<value>
+				<fullName>Windows 98</fullName>
+				<default>false</default>
+				<label>Windows 98</label>
+			</value>
+			<value>
+				<fullName>Windows 2000</fullName>
+				<default>false</default>
+				<label>Windows 2000</label>
+			</value>
+			<value>
+				<fullName>Windows XP</fullName>
+				<default>false</default>
+				<label>Windows XP</label>
+			</value>
+			<value>
+				<fullName>Mac OS</fullName>
+				<default>false</default>
+				<label>Mac OS</label>
+			</value>
+			<value>
+				<fullName>Other</fullName>
+				<default>false</default>
+				<label>Other</label>
+			</value>
+			<value>
+				<fullName>Windows 95</fullName>
+				<default>false</default>
+				<label>Windows 95</label>
+			</value>
+		</valueSetDefinition>
+	</valueSet>
+</CustomField>
