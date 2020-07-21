@@ -5,7 +5,7 @@
 			"default": false
 		},
 		{
-			"path": "Unpackaged",
+			"path": "unpackaged",
 			"default": true
 		}
 	],
