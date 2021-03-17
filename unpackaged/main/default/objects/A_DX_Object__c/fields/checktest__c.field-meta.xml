@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
 	<fullName>checktest__c</fullName>
+	<businessOwnerUser>billnewss88@mz.com</businessOwnerUser>
+	<businessStatus>DeprecateCandidate</businessStatus>
+	<complianceGroup>HIPAA;GDPR</complianceGroup>
 	<defaultValue>false</defaultValue>
+	<description>new description</description>
 	<externalId>false</externalId>
+	<inlineHelpText>new help text</inlineHelpText>
 	<label>checktest</label>
+	<securityClassification>MissionCritical</securityClassification>
 	<trackHistory>false</trackHistory>
 	<trackTrending>false</trackTrending>
 	<type>Checkbox</type>

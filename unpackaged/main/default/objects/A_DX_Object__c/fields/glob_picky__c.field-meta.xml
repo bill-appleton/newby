@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-	<fullName>newone__c</fullName>
+	<fullName>glob_picky__c</fullName>
 	<externalId>false</externalId>
-	<label>newone</label>
-	<length>200</length>
+	<label>glob_picky</label>
 	<required>false</required>
 	<trackHistory>false</trackHistory>
 	<trackTrending>false</trackTrending>
-	<type>Text</type>
-	<unique>false</unique>
+	<type>Picklist</type>
+	<valueSet>
+		<restricted>true</restricted>
+		<valueSetName>testing</valueSetName>
+	</valueSet>
 </CustomField>
