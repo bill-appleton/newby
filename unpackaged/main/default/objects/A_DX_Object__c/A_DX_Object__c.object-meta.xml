@@ -155,10 +155,9 @@
 	<externalSharingModel>ReadWrite</externalSharingModel>
 	<label>A DX Object</label>
 	<nameField>
-		<displayFormat>{0}</displayFormat>
 		<label>A DX Object Name</label>
 		<trackHistory>false</trackHistory>
-		<type>AutoNumber</type>
+		<type>Text</type>
 	</nameField>
 	<pluralLabel>A DX Objects</pluralLabel>
 	<searchLayouts/>
