@@ -2,7 +2,7 @@
 	"packageDirectories": [
 		{
 			"path": "GamePlan",
-			"default": false
+			"default": true
 		}
 	],
 	"namespace": "",
