@@ -3,10 +3,6 @@
 		{
 			"path": "GamePlan",
 			"default": false
-		},
-		{
-			"path": "unpackaged",
-			"default": true
 		}
 	],
 	"namespace": "",
